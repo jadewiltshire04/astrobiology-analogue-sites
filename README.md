@@ -72,3 +72,4 @@ limit significantly.
 - Notebook 3's PDF steps expect manually downloaded PDFs, named by `bibcode`, in a
   `shortlisted_pdfs/` folder.
 - All outputs are written to the working directory the notebook is run from.
+- Shortlisted PDFs are not listed due to copyright, all PDFs can be found using their bibcode given in the catalogue. 
